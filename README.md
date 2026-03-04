@@ -25,14 +25,14 @@
 
 ## 🎧 Spotify Now Playing
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_ID&cover_image=true&theme=novatorem" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=5afc37f984aa4ad9afc05f49c435bb57&cover_image=true&theme=novatorem" />
 </p>
 
 ---
 
 ## 💬 Discord Presence
 <p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/DISCORD_ID?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/632142872577048577?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px" />
 </p>
 
 ---
